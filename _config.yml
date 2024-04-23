@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : "Stephen P. Vicchio"
-title_separator          : "-"
+title_separator          : " "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Stephen P. Vicchio, Ph.D."
 description              : "Dwight D. Eisenhower Distinguished Postdoctoral Fellow \n Savannah River National Laboratory (SRNL)"
