@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Stephen P. Vicchio, PhD."
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "assets/vicchio-headshot.jpg"
   bio              : "**Dwight D. Eisenhower Distinguished Postdoctoral Fellow** Savannah River National Lab (SRNL)"
   location         : "Aiken, SC"
   email            : "stephen.vicchio@srnl.doe.gov"
