@@ -110,7 +110,7 @@ author:
   avatar           : "assets/vicchio-headshot.jpg"
   bio              : "**Dwight D. Eisenhower Distinguished Postdoctoral Fellow** Savannah River National Lab (SRNL)"
   location         : "Aiken, SC"
-  email            : ""
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
